@@ -1,4 +1,4 @@
 
 #Demo 
 lets do something!
-open index.html
+open index.html!
